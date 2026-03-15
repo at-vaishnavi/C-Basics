@@ -1,5 +1,6 @@
 # Simple Calculator
 This is **Day 1** of my C Basics Daily Learning journey.
+
 This C program implements a **simple calculator** using **conditional statements**.  
 It can perform **addition, subtraction, multiplication, and division** based on the operator entered by the user.
 
