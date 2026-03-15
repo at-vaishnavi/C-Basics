@@ -1,4 +1,5 @@
 # Welcome Program
+This is **Day 1** of my C Basics Daily Learning journey. 
 
 This C program prints a welcome message for the **C Basics Daily Learning**.
 
