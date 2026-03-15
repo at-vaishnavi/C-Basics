@@ -9,8 +9,8 @@ I add new programs regularly as ideas come to my mind, so the collection grows d
 
 ```text
 c-basics
-├── hello
-│   ├── hello.c
+├── welcome
+│   ├── welcome.c
 │   └── README.md
 └── ... (new program folders added daily)
 ```
