@@ -12,6 +12,9 @@ c-basics
 ├── welcome
 │   ├── welcome.c
 │   └── README.md
+├── calculator
+│   ├── calci.c
+│   └── README.md
 └── ... (new program folders added daily)
 ```
 - Each folder contains:
