@@ -7,11 +7,13 @@ I add new programs regularly as ideas come to my mind, so the collection grows d
 
 ## Repository Structure
 
+## Repository Structure
 
+```text
 c-basics
 ├── hello
-│ ├── hello.c
-│ └── README.md
+│   ├── hello.c
+│   └── README.md
 └── ... (new program folders added daily)
 
 
