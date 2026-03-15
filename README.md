@@ -1,11 +1,9 @@
 # C Basics
 
 This repository contains small C programs that I write while learning and practicing C programming.  
-Each program is stored in its **own folder** with the source code and a short README explaining what the program does.
+Each program is stored in its own folder with the source code and a short README explaining what the program does.
 
 I add new programs regularly as ideas come to my mind, so the collection grows day by day.
-
-## Repository Structure
 
 ## Repository Structure
 
@@ -14,26 +12,35 @@ c-basics
 ├── hello
 │   ├── hello.c
 │   └── README.md
+├── program2
+│   ├── program2.c
+│   └── README.md
 └── ... (new program folders added daily)
+```
 
+Each folder contains:
 
-- Each folder contains:
-  - The C source code file (`.c`)
-  - A README file explaining the program
+The C source code file (.c)
 
-## Purpose
+A README file explaining the program
 
-- Practice C programming daily  
-- Learn new concepts naturally by writing small programs  
-- Keep a record of programs I’ve written while learning
+Purpose
 
-## How to Use
+Practice C programming daily
 
-- Browse the folders to see each program  
-- Open the `.c` file to read the code  
-- Check the README in each folder for explanation, input/output examples, and concepts used
+Learn new concepts naturally by writing small programs
 
-## Note
+Keep a record of programs I’ve written while learning
 
-This repository reflects my **learning journey in C programming**.  
-New programs will be added **daily or whenever inspiration strikes**.
+How to Use
+
+Browse the folders to see each program
+
+Open the .c file to read the code
+
+Check the README in each folder for explanation, input/output examples, and concepts used
+
+Note
+
+This repository reflects my learning journey in C programming.
+New programs will be added daily or whenever inspiration strikes.
