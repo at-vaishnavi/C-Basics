@@ -7,8 +7,9 @@ This C program prints a welcome message for the **C Basics Daily Learning**.
 - `printf` function
 
 ## Example Output
+```
 Welcome to C Basics Daily Learning !!
-
+```
 ## How to Run
 1. Open any C compiler (like Turbo C, Code::Blocks, Dev C++, or VS Code).  
 2. Compile `welcome.c`.  
