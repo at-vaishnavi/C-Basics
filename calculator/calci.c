@@ -29,7 +29,7 @@ int main()
     {
       if(b==0)
       {
-        printf("Zero Division Erro");
+        printf("Zero Division Error !");
       }
       else
       {
