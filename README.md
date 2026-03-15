@@ -17,30 +17,23 @@ c-basics
 │   └── README.md
 └── ... (new program folders added daily)
 ```
+- Each folder contains:
+  - The C source code file (`.c`)
+  - A README file explaining the program
 
-Each folder contains:
+## Purpose
 
-The C source code file (.c)
+- Practice C programming daily  
+- Learn new concepts naturally by writing small programs  
+- Keep a record of programs I’ve written while learning
 
-A README file explaining the program
+## How to Use
 
-Purpose
+- Browse the folders to see each program  
+- Open the `.c` file to read the code  
+- Check the README in each folder for explanation, input/output examples, and concepts used
 
-Practice C programming daily
+## Note
 
-Learn new concepts naturally by writing small programs
-
-Keep a record of programs I’ve written while learning
-
-How to Use
-
-Browse the folders to see each program
-
-Open the .c file to read the code
-
-Check the README in each folder for explanation, input/output examples, and concepts used
-
-Note
-
-This repository reflects my learning journey in C programming.
-New programs will be added daily or whenever inspiration strikes.
+This repository reflects my **learning journey in C programming**.  
+New programs will be added **daily or whenever inspiration strikes**.
