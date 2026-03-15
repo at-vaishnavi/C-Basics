@@ -12,9 +12,6 @@ c-basics
 ├── hello
 │   ├── hello.c
 │   └── README.md
-├── program2
-│   ├── program2.c
-│   └── README.md
 └── ... (new program folders added daily)
 ```
 - Each folder contains:
