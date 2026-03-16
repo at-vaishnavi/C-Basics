@@ -26,7 +26,7 @@ Enter a number: 7
 ```
 How to Run:
 ------------
-1. Save the program code in a file )
+1. Save the program code in a file 
 2. Compile if required 
 3. Run the program:
-4. Enter the number when prompted
+4. Enter the number when prompted.
