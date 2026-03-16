@@ -18,6 +18,9 @@ c-basics
 ├── evenodd
 │   ├── evenodd.c
 │   └── README.md
+├── prime
+│   ├── prime.c
+│   └── README.md
 └── ... (new program folders added daily)
 ```
 - Each folder contains:
