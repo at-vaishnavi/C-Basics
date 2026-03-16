@@ -15,6 +15,9 @@ c-basics
 ├── calculator
 │   ├── calci.c
 │   └── README.md
+├── evenodd
+│   ├── evenodd.c
+│   └── README.md
 └── ... (new program folders added daily)
 ```
 - Each folder contains:
