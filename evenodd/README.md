@@ -3,6 +3,11 @@ This is Day 2 of my C Basics Daily Learning journey.
 Description:
 This program checks whether a given number is even or odd. It demonstrates the use of conditional statements to make decisions based on user input.
 
+## Concepts Used
+- Basic C syntax
+- `printf` and `scanf` functions
+- `if` / `else` conditional statements
+
 Features:
 - Accepts a number from the user
 - Determines if it is even or odd
