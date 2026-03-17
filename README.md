@@ -21,6 +21,12 @@ c-basics
 ├── prime
 │   ├── prime.c
 │   └── README.md
+├── factorial
+│   ├── fact.c
+│   └── README.md
+├── fibonacci
+│   ├── fib.c
+│   └── README.md
 └── .... (new program folders added daily)
 ```
 - Each folder contains:
