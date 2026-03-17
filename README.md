@@ -21,7 +21,7 @@ c-basics
 ├── prime
 │   ├── prime.c
 │   └── README.md
-└── ... (new program folders added daily)
+└── .... (new program folders added daily)
 ```
 - Each folder contains:
   - The C source code file (`.c`)
