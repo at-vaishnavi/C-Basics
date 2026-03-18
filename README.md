@@ -30,6 +30,9 @@ c-basics
 ├── sumofno
 │   ├── sum.c
 │   └── README.md
+├── palindrome
+│   ├── palindrome.c
+│   └── README.md
 └── .... (new program folders added daily)
 ```
 - Each folder contains:
