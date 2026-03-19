@@ -33,6 +33,9 @@ c-basics
 ├── palindrome
 │   ├── palindrome.c
 │   └── README.md
+├── array1
+│   ├── 1.c
+│   └── README.md
 └── .... (new program folders added daily)
 ```
 - Each folder contains:
